@@ -3,12 +3,14 @@ repos:
     rev: stable
     hooks:
       - id: black
+        files: ^python/.*$
   - repo: https://github.com/charliermarsh/ruff-pre-commit
     rev: stable
     hooks:
       - id: ruff
+        files: ^python/.*$
   - repo: https://github.com/PyCQA/pylint
     rev: stable
     hooks:
       - id: pylint
-
+        files: ^python/.*$
