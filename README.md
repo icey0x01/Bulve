@@ -1,4 +1,5 @@
-# Bulvė - SSH klientas ir serveris
+
+# 🥔 Bulvė - SSH klientas ir serveris
 Bulvė yra įrankis skirtas išmokti kriptografijos, sesijų valdymo bei tinklo komunikacijos. 
 
 
